@@ -1,8 +1,8 @@
-# Welcome, I’m @Diogoesteves11 👋
+# Welcome, I’m @andremp33 👋
 
 🎓 **Engenharia Informática** @ Universidade do Minho  
 🔐 **Interesses**: Software Development • Cybersecurity • AI  
-📫 **Contact**: [![Email](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:diogoife@outlook.com)  
+📫 **Contact**: [![Email](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:a104267@outlook.com)  
 
 ---
 
@@ -14,6 +14,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ### Web & Databases  
