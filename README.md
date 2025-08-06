@@ -33,12 +33,6 @@
 
 ---
 
-## 🌟 **Projects**  
-- [Project 1](https://github.com/Diogoesteves11/repo1) - Short description.  
-- [Project 2](https://github.com/Diogoesteves11/repo2) - Short description.  
-
----
-
 ### 🔗 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diogoesteves11)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/andr%C3%A9-pinto-95809b378/))  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/andremp33])  
